@@ -5,5 +5,6 @@ public class StringPractice {
 
         System.out.println("Hello World!!");
         String a ;
+        int b;
     }
 }
